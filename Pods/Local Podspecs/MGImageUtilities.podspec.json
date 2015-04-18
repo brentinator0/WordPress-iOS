@@ -1,0 +1,18 @@
+{
+  "name": "MGImageUtilities",
+  "version": "0.0.1",
+  "summary": "Useful UIImage categories for iPhone/iPad developers.",
+  "homepage": "http://mattgemmell.com/2010/07/05/mgimageutilities/",
+  "license": "BSD",
+  "authors": {
+    "Matt Gemmell": "matt@mattgemmell.com"
+  },
+  "source": {
+    "git": "https://github.com/wordpress-mobile/MGImageUtilities.git",
+    "branch": "gifsupport"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Classes/UIImage*.{h,m}"
+}
